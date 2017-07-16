@@ -1,4 +1,6 @@
-- Created using Stephen Grider's ReduxSimpleStarter Pack https://github.com/StephenGrider/ReduxSimpleStarter.git
+# Created using Stephen Grider's Redux Simple Starter Pack
+
+<hr>
 
 # ReduxSimpleStarter
 
