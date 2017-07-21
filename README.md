@@ -1,5 +1,9 @@
 # Created using Stephen Grider's Redux Simple Starter Pack
 
+- Edit: I think something changed with heroku's API. It's looking for npm run build so I just re-created the project using create-react-app to avoid any additional headaches
+
+###  https://mplibunao-react-youtube.herokuapp.com/
+
 - Deployed using Heroku and includes the following scripts:
   - postinstall : create production build
   - start : runs `server.js` responsible for setting up express inlcuding:
