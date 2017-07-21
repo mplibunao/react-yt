@@ -1,5 +1,12 @@
 # Created using Stephen Grider's Redux Simple Starter Pack
 
+- Deployed using Heroku and includes the following scripts:
+  - postinstall : create production build
+  - start : runs `server.js` responsible for setting up express inlcuding:
+    - Port
+    - Directory for serving static files (bundle.js in this case)
+    - Route/s (index.js in this case since we're building an SPA)
+
 <hr>
 
 # ReduxSimpleStarter
